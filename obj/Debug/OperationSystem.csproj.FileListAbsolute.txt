@@ -1,0 +1,7 @@
+C:\Users\Ok\source\repos\OperationSystem\obj\Debug\OperationSystem.csproj.AssemblyReference.cache
+C:\Users\Ok\source\repos\OperationSystem\obj\Debug\OperationSystem.csproj.CoreCompileInputs.cache
+C:\Users\Ok\source\repos\OperationSystem\bin\Debug\OperationSystem.exe.config
+C:\Users\Ok\source\repos\OperationSystem\bin\Debug\OperationSystem.exe
+C:\Users\Ok\source\repos\OperationSystem\bin\Debug\OperationSystem.pdb
+C:\Users\Ok\source\repos\OperationSystem\obj\Debug\OperationSystem.exe
+C:\Users\Ok\source\repos\OperationSystem\obj\Debug\OperationSystem.pdb
